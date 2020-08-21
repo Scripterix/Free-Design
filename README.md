@@ -23,3 +23,5 @@ npm start
 ```
 
 Files are compiled into /src
+
+## Lost with file structure = use zip file
